@@ -1,3 +1,3 @@
 # MDCAP
-miRNA-disease causal association predictior
+miRNA-disease causal association predictor
 
