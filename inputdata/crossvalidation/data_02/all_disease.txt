@@ -1,4 +1,3 @@
-Abortion, Spontaneous
 Acute Kidney Injury
 Acute Lung Injury
 Adenoviridae Infections
@@ -8,10 +7,8 @@ Alzheimer Disease
 Amyotrophic Lateral Sclerosis
 Anemia, Aplastic
 Aneurysm
-Angina, Unstable
 Angiomyolipoma
 Aortic Aneurysm, Abdominal
-Aortic Valve Insufficiency
 Aortic Valve Stenosis
 Arbovirus Infections
 Arrhythmias, Cardiac
@@ -36,11 +33,9 @@ Brain Ischemia
 Brain Neoplasms
 Breast Neoplasms
 Bronchiolitis Obliterans
-Bronchopulmonary Dysplasia
 Burkitt Lymphoma
 Burns
 Carcinoma, Adenoid Cystic
-Carcinoma, Basal Cell
 Carcinoma, Embryonal
 Carcinoma, Endometrioid
 Carcinoma, Hepatocellular
@@ -72,7 +67,6 @@ Colitis
 Colitis, Ulcerative
 Colonic Neoplasms
 Colorectal Neoplasms
-Congenital Hypothyroidism
 Corneal Dystrophies, Hereditary
 Coronary Artery Disease
 Coronavirus Infections
@@ -80,12 +74,9 @@ Crohn Disease
 Cryptosporidiosis
 Cystic Fibrosis
 Cytotoxicity Tests, Immunologic
-Dementia
 Demyelinating Diseases
 Depressive Disorder
 Depressive Disorder, Major
-Dermatitis, Atopic
-Dermatomyositis
 Diabetes Mellitus
 Diabetes Mellitus, Type 1
 Diabetes Mellitus, Type 2
@@ -94,7 +85,6 @@ Diabetic Angiopathies
 Diabetic Cardiomyopathies
 Diabetic Nephropathies
 Diabetic Retinopathy
-Diarrhea
 Down Syndrome
 Ectodermal Dysplasia 1, Anhidrotic
 Emphysema
@@ -104,20 +94,18 @@ Endometrial Neoplasms
 Endometriosis
 Endomyocardial Fibrosis
 Enterovirus Infections
-Epilepsy
 Epilepsy, Temporal Lobe
 Esophageal Neoplasms
 Familial Primary Pulmonary Hypertension
-Fanconi Anemia
 Fatty Liver
 Fatty Liver, Alcoholic
 Fibrosarcoma
-Follicular Atresia
 Fragile X Syndrome
 Gallbladder Neoplasms
 Gastrointestinal Neoplasms
 Gastrointestinal Stromal Tumors
 Giant Cell Tumor of Bone
+Glaucoma
 Glioblastoma
 Glioma
 Gliosis
@@ -127,6 +115,7 @@ Gout
 Graft vs Host Disease
 Granulosa Cell Tumor
 Graves Disease
+Growth Hormone-Secreting Pituitary Adenoma
 HIV Infections
 Head and Neck Neoplasms
 Hearing Loss
@@ -142,7 +131,6 @@ Hepatitis C
 Hepatitis C, Chronic
 Hepatitis, Alcoholic
 Hepatoblastoma
-Hernia, Diaphragmatic
 Hirschsprung Disease
 Hodgkin Disease
 Huntington Disease
@@ -153,19 +141,15 @@ Hypertension
 Hypertension, Pulmonary
 Hypertrophy
 Hypoxia
-Hypoxia-Ischemia, Brain
 Idiopathic Pulmonary Fibrosis
 Immune System Diseases
-Immunologic Deficiency Syndromes
 Infection
 Inferior Wall Myocardial Infarction
 Infertility
-Infertility, Male
 Inflammation
 Inflammatory Bowel Diseases
 Influenza, Human
 Intervertebral Disc Degeneration
-Intracranial Aneurysm
 Iron Metabolism Disorders
 Ischemia
 Keloid
@@ -175,6 +159,7 @@ Kidney Neoplasms
 Laryngeal Neoplasms
 Legg-Calve-Perthes Disease
 Leiomyoma
+Leiomyosarcoma
 Leprosy
 Leukemia
 Leukemia, B-Cell
@@ -185,8 +170,8 @@ Leukemia, Myelogenous, Chronic, BCR-ABL Positive
 Leukemia, Myeloid
 Leukemia, Myeloid, Acute
 Leukemia, Promyelocytic, Acute
+Leukemia, T-Cell
 Leukemia-Lymphoma, Adult T-Cell
-Lichen Planus
 Liposarcoma
 Liposarcoma, Myxoid
 Listeriosis
@@ -201,14 +186,12 @@ Lupus Nephritis
 Lymphocytic Choriomeningitis
 Lymphoma
 Lymphoma, B-Cell
-Lymphoma, Extranodal NK-T-Cell
 Lymphoma, Large B-Cell, Diffuse
 Lymphoma, Mantle-Cell
 Lymphoma, Non-Hodgkin
 Lymphoma, T-Cell
 Lymphoma, T-Cell, Cutaneous
 Macular Degeneration
-Malaria, Cerebral
 Marek Disease
 Mastocytosis, Systemic
 Medulloblastoma
@@ -223,7 +206,6 @@ Multiple Myeloma
 Multiple Sclerosis
 Muscular Atrophy
 Muscular Diseases
-Muscular Dystrophies
 Muscular Dystrophy, Duchenne
 Musculoskeletal Abnormalities
 Myasthenic Syndromes, Congenital
@@ -236,7 +218,6 @@ Myotonic Dystrophy
 Myxoma
 Nasopharyngeal Neoplasms
 Neoplasms
-Neovascularization, Pathologic
 Nervous System Diseases
 Neuralgia
 Neurilemmoma
@@ -259,8 +240,6 @@ Pancreatic Neoplasms
 Pancreatitis, Acute Necrotizing
 Papillomaviridae
 Parkinson Disease
-Periodontal Diseases
-Periodontitis
 Peripheral Nerve Injuries
 Peritoneal Fibrosis
 Pheochromocytoma
@@ -272,7 +251,6 @@ Pre-Eclampsia
 Precursor B-Cell Lymphoblastic Leukemia-Lymphoma
 Precursor Cell Lymphoblastic Leukemia-Lymphoma
 Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
-Pregnancy Complications
 Prostatic Neoplasms
 Psoriasis
 Pterygium
@@ -283,7 +261,6 @@ Rectal Neoplasms
 Reperfusion Injury
 Respiratory Distress Syndrome, Adult
 Retinal Degeneration
-Retinal Neovascularization
 Retinoblastoma
 Rhabdomyosarcoma
 Rhinitis, Allergic
@@ -298,10 +275,9 @@ Skin Diseases
 Small Cell Lung Carcinoma
 Spinal Cord Injuries
 Spondylitis, Ankylosing
+Staphylococcal Scalded Skin Syndrome
 Stomach Neoplasms
 Stroke
-Supranuclear Palsy, Progressive
-Tauopathies
 Testicular Neoplasms
 Thrombosis
 Thyroid Carcinoma, Anaplastic
@@ -313,10 +289,7 @@ Tuberculosis
 Urinary Bladder Neoplasms
 Uterine Cervical Neoplasms
 Vascular System Injuries
-Venous Thromboembolism
-Vulvar Neoplasms
 Waldenstrom Macroglobulinemia
-White spot syndrome virus 1
 Wilms Tumor
 Wound Healing
 Wounds and Injuries

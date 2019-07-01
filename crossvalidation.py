@@ -33,10 +33,26 @@ def nfoldCV(dataset, n=5):
     for testset, trainset in indexlist:
         yield (dataset.loc[testset], dataset.loc[trainset])
 
+def getDataset():
 
-def main():
-    
     dataset = pd.read_csv("data/hmdd_causal.txt", sep="\t")
+
+    random.seed(1024)
+    idx = set(dataset.index.values.tolist())
+    testsetidx = set(random.sample(idx, len(dataset)//5))
+    trainsetidx = idx -  testsetidx
+
+    testset = dataset.loc[testsetidx]
+    trainset = dataset.loc[trainsetidx]
+
+    testset.to_csv("data/hmdd_causal_test.txt", sep="\t", index=False)
+    trainset.to_csv("data/hmdd_causal_train.txt", sep="\t", index=False)
+
+    return 0
+
+def crossvalidation():
+    
+    dataset = pd.read_csv("data/hmdd_causal_train.txt", sep="\t")
    
     n = 10
     random.seed(1024)
@@ -68,22 +84,47 @@ def main():
 
     return 0
 
+def test():
+
+    trainset = pd.read_csv("data/hmdd_causal_train.txt", sep="\t")
+    testset = pd.read_csv("data/hmdd_causal_test.txt", sep="\t")
+
+    outdir = "inputdata/cv_test"
+    if not os.path.exists(outdir):
+        os.makedirs(outdir)
+
+    testset = testset[np.in1d(testset['mir'], trainset['mir'])]
+    testset = testset[np.in1d(testset['disease'], trainset['disease'])]
+    testset.to_csv("%s/testset.txt" % outdir, sep="\t", index=False)
+    trainset.to_csv("%s/trainset.txt" % outdir, sep="\t", index=False)
+
+    matrics.saveMatrics(trainset, outdir)
+    
+    duallp.main(outdir)
+
+    results = pd.read_csv("%s/dlp_results.txt" % outdir, sep="\t")
+    results.to_csv("results/cv_test.txt", sep="\t")
+
+    return 0
+    
 
 def showCurves():
-   
-    results = pd.read_csv("results/cv_results.txt", sep="\t")
+    
+    results_cv = pd.read_csv("results/cv_results.txt", sep="\t")
+    results_cv['cond'] = results_cv['cond'].astype(float)
+    results = pd.read_csv("results/cv_test.txt", sep="\t")
     results['cond'] = results['cond'].astype(float)
     # draw curves
-    fig, sp = plt.subplots(1, 1, figsize=(4,4))
-    #curves.drawPRC(results, sp[0], "label propagation")
-    curves.drawROC(results, sp, "MDCAP")
-    #sp[0].legend(loc='upper right')
-    #sp.legend(loc='lower right')
+    fig, sp = plt.subplots(1, 2, figsize=(8,4))
+    curves.drawROC(results_cv, sp[0], "MDCAP cv")
+    curves.drawROC(results, sp[1], "MDCAP cv_test")
     plt.show()
 
 
 if __name__ == '__main__':
-    #main()
+    #getDataset()
+    #crossvalidation()
+    #test()
     showCurves()
 
 

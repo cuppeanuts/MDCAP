@@ -36,8 +36,6 @@ hsa-mir-1178
 hsa-mir-1179
 hsa-mir-1180
 hsa-mir-1182
-hsa-mir-1185
-hsa-mir-120
 hsa-mir-1202
 hsa-mir-1207
 hsa-mir-122
@@ -50,7 +48,6 @@ hsa-mir-124
 hsa-mir-124-1
 hsa-mir-124-2
 hsa-mir-124-3
-hsa-mir-1244
 hsa-mir-1246
 hsa-mir-1247
 hsa-mir-124a
@@ -69,7 +66,6 @@ hsa-mir-126a
 hsa-mir-127
 hsa-mir-1271
 hsa-mir-1273g
-hsa-mir-1274a
 hsa-mir-1275
 hsa-mir-128
 hsa-mir-128-1
@@ -78,8 +74,6 @@ hsa-mir-1280
 hsa-mir-1281
 hsa-mir-1285
 hsa-mir-1285-1
-hsa-mir-1285-2
-hsa-mir-1287
 hsa-mir-128b
 hsa-mir-129
 hsa-mir-129-1
@@ -93,7 +87,6 @@ hsa-mir-130
 hsa-mir-1301
 hsa-mir-1303
 hsa-mir-1304
-hsa-mir-1306
 hsa-mir-1307
 hsa-mir-130a
 hsa-mir-130b
@@ -128,7 +121,6 @@ hsa-mir-146b
 hsa-mir-148a
 hsa-mir-148b
 hsa-mir-149
-hsa-mir-15
 hsa-mir-150
 hsa-mir-151
 hsa-mir-152
@@ -165,7 +157,6 @@ hsa-mir-19
 hsa-mir-1908
 hsa-mir-191
 hsa-mir-192
-hsa-mir-192-2
 hsa-mir-193
 hsa-mir-193a
 hsa-mir-193b
@@ -175,7 +166,6 @@ hsa-mir-194-2
 hsa-mir-195
 hsa-mir-196a
 hsa-mir-196a-1
-hsa-mir-196a-2
 hsa-mir-196b
 hsa-mir-197
 hsa-mir-198
@@ -243,7 +233,6 @@ hsa-mir-29
 hsa-mir-2909
 hsa-mir-294
 hsa-mir-296
-hsa-mir-297
 hsa-mir-298
 hsa-mir-299
 hsa-mir-29a
@@ -274,7 +263,6 @@ hsa-mir-3117
 hsa-mir-3127
 hsa-mir-3144
 hsa-mir-3160
-hsa-mir-3162
 hsa-mir-3175
 hsa-mir-3178
 hsa-mir-31a
@@ -284,13 +272,11 @@ hsa-mir-3200
 hsa-mir-320a
 hsa-mir-320b
 hsa-mir-320b-1
-hsa-mir-320b-2
 hsa-mir-320c
 hsa-mir-320c-1
 hsa-mir-320c-2
 hsa-mir-320d-1
 hsa-mir-320d-2
-hsa-mir-320e
 hsa-mir-322
 hsa-mir-323
 hsa-mir-323a
@@ -319,7 +305,6 @@ hsa-mir-34c
 hsa-mir-351
 hsa-mir-3607
 hsa-mir-361
-hsa-mir-3619
 hsa-mir-362
 hsa-mir-363
 hsa-mir-365
@@ -339,7 +324,6 @@ hsa-mir-376c
 hsa-mir-377
 hsa-mir-378
 hsa-mir-378a
-hsa-mir-379
 hsa-mir-381
 hsa-mir-382
 hsa-mir-383
@@ -354,7 +338,6 @@ hsa-mir-423
 hsa-mir-424
 hsa-mir-425
 hsa-mir-4262
-hsa-mir-4282
 hsa-mir-429
 hsa-mir-4302
 hsa-mir-431
@@ -363,24 +346,19 @@ hsa-mir-4317
 hsa-mir-4319
 hsa-mir-433
 hsa-mir-4417
-hsa-mir-4458
 hsa-mir-4463
 hsa-mir-448
 hsa-mir-449a
-hsa-mir-449b
 hsa-mir-449c
-hsa-mir-4500
 hsa-mir-451
 hsa-mir-451a
 hsa-mir-452
 hsa-mir-454
 hsa-mir-455
-hsa-mir-463
 hsa-mir-466
 hsa-mir-4695
 hsa-mir-4717
 hsa-mir-4728
-hsa-mir-4782
 hsa-mir-483
 hsa-mir-485
 hsa-mir-486
@@ -414,7 +392,6 @@ hsa-mir-5095
 hsa-mir-510
 hsa-mir-511
 hsa-mir-512
-hsa-mir-512-2
 hsa-mir-513
 hsa-mir-513a
 hsa-mir-513b
@@ -434,18 +411,14 @@ hsa-mir-520b
 hsa-mir-520c
 hsa-mir-520d
 hsa-mir-520e
-hsa-mir-520f
 hsa-mir-520g
 hsa-mir-522
 hsa-mir-524
-hsa-mir-525
-hsa-mir-526b
 hsa-mir-532
 hsa-mir-539
 hsa-mir-541
 hsa-mir-542
 hsa-mir-543
-hsa-mir-544
 hsa-mir-544a
 hsa-mir-544b
 hsa-mir-545
@@ -463,7 +436,6 @@ hsa-mir-557
 hsa-mir-5590
 hsa-mir-564
 hsa-mir-569
-hsa-mir-570
 hsa-mir-573
 hsa-mir-574
 hsa-mir-575
@@ -503,8 +475,6 @@ hsa-mir-645
 hsa-mir-646
 hsa-mir-647
 hsa-mir-650
-hsa-mir-652
-hsa-mir-656
 hsa-mir-657
 hsa-mir-660
 hsa-mir-661
@@ -517,7 +487,6 @@ hsa-mir-671
 hsa-mir-674
 hsa-mir-675
 hsa-mir-6852
-hsa-mir-6869
 hsa-mir-696
 hsa-mir-7
 hsa-mir-7-1
@@ -535,7 +504,6 @@ hsa-mir-761
 hsa-mir-762
 hsa-mir-766
 hsa-mir-767
-hsa-mir-769
 hsa-mir-7702
 hsa-mir-802
 hsa-mir-873
@@ -544,12 +512,10 @@ hsa-mir-876
 hsa-mir-877
 hsa-mir-885
 hsa-mir-886
-hsa-mir-891a
 hsa-mir-9
 hsa-mir-9-1
 hsa-mir-9-2
 hsa-mir-9-3
-hsa-mir-92
 hsa-mir-92-1
 hsa-mir-922
 hsa-mir-92a

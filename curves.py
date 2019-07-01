@@ -39,8 +39,8 @@ def drawPRC(result, sp, methodlabel):
 
 def drawROC(result, sp, methodlabel):
 	print("drawing roc curve...")
-	sp.set_xlabel('FPR')
-	sp.set_ylabel('TPR')
+	sp.set_xlabel('False positive rate (FPR)')
+	sp.set_ylabel('Ture positive rate (TPR)')
 	sp.set_ylim([0.0, 1.0])
 	sp.set_xlim([0.0, 1.0])
 	#sp.set_title('2-class ROC curve')
